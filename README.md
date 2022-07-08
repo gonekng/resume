@@ -68,7 +68,7 @@
     - 인원 : 4명
     - 기간 :
     - 내용
-        - Link 1 : [tabular-playground-apr-22](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22)
+        - Link 1 : [tabular-playground-apr-22-lgbm](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22)
         - Link 2 : [tabular-playground-apr-22-lstm](https://www.kaggle.com/code/taehyeon0915/tabular-playground-apr-22-lstm)
   - Kaggle Competition을 활용한 대용량 데이터 분류 모델 연구 → [자세히 보기](https://github.com/gonekng/Kaggle_Project/tree/main/AMEX_2022)
     - 사용 언어 : `Python`
