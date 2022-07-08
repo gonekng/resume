@@ -22,6 +22,8 @@
 - **학력**
     - `2022.02` 한국외국어대학교 경영정보학(1전공) 학사 졸업
     - `2022.02` 한국외국어대학교 통계학(이중전공) 학사 졸업
+<br>
+
 - **기타 교육**
     - `2022.08`  AI 데이터 플랫폼을 활용한 빅데이터 분석 전문가 과정 수료 → 자세히 보기
 
@@ -31,6 +33,8 @@
 
 - 어학 능력
     - `2021.12` TOEIC 925점 / ETS
+<br>
+
 - 자격증
     - `2020.08` ADsP 데이터분석준전문가 / 한국데이터산업진흥원
     - `2020.11` 사회조사분석사 2급 / 한국산업인력공단 (통계청)
@@ -43,7 +47,7 @@
 
 ## IV.  Career
 
-- `2021.09~2022.02` 공공빅데이터 청년 인턴 근무 (구로구청)
+- `2021.09 ~ 2022.02` 공공빅데이터 청년 인턴 근무 (구로구청)
 
 <br>
 
@@ -57,9 +61,6 @@
     - 기간 :
     - 내용
         - Link : [https://www.kaggle.com/code/jiwonkng/spaceship-titanic-eda-preprocessing-modeling](https://www.kaggle.com/code/jiwonkng/spaceship-titanic-eda-preprocessing-modeling)
-
-<br>
-
   - Kaggle Competition을 활용한 시계열 데이터 분류 모델 연구 → [자세히 보기](https://github.com/gonekng/Kaggle_Project/tree/main/TPS_Apr22)
     - 사용 언어 : `Python`
     - 스킬 및 작업 툴 : `Kaggle notebook`
@@ -68,9 +69,6 @@
     - 내용
         - Link 1 : [https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22)
         - Link 2 : [https://www.kaggle.com/code/taehyeon0915/tabular-playground-apr-22-lstm](https://www.kaggle.com/code/taehyeon0915/tabular-playground-apr-22-lstm)
-
-<br>
-
   - Kaggle Competition을 활용한 대용량 데이터 분류 모델 연구 → [자세히 보기](https://github.com/gonekng/Kaggle_Project/tree/main/AMEX_2022)
     - 사용 언어 : `Python`
     - 스킬 및 작업 툴 : `Kaggle notebook`
