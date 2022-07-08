@@ -1,11 +1,10 @@
 # Resume
 ---
-<aside>
+
 
 > ***"We're stronger in the places that we've been broken."***
 > *Ernest Heminway*
 
-</aside>
 
 <br>
 ## I. Personal Info
