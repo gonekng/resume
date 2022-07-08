@@ -1,12 +1,12 @@
 # Resume
----
 
+<br>
 
 > ***"We're stronger in the places that we've been broken."***
 > *Ernest Heminway*
 
-
 <br>
+
 ## I. Personal Info
 
 - 이름 : 강지원
@@ -16,6 +16,7 @@
 - 블로그 : [gonekng.github.io](http://gonekng.github.io)
 
 <br>
+
 ## II. Education
 
 - **학력**
@@ -25,6 +26,7 @@
     - `2022.08`  AI 데이터 플랫폼을 활용한 빅데이터 분석 전문가 과정 수료 → 자세히 보기
 
 <br>
+
 ## III. Certificate
 
 - 어학 능력
@@ -38,11 +40,13 @@
     - `2022.07` 빅데이터분석기사 / 한국데이터산업진흥원
 
 <br>
+
 ## IV.  Career
 
 - `2021.09~2022.02` 공공빅데이터 청년 인턴 근무 (구로구청)
 
 <br>
+
 ## V. Project
 
 - **Kaggle 프로젝트**
