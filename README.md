@@ -89,3 +89,8 @@
         - 스킬 및 작업 툴 : `VScode` `Heroku` `SPSS` `PostgreSQL` `Kakao open builder`
         - 인원 : 5명
         - 기간 : `2022.05.09` ~ `2022.06.03`
+    - 취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티 서비스 개발 → [자세히 보기](https://github.com/gonekng/Verdeterr)
+        - 사용 언어 : `Java` `Python` `HTML` `CSS` `JavaScript`
+        - 스킬 및 작업 툴 : `VScode` `Dbeaver` `MySQL` `STS4` `SpringBoot` `Bootstrap`
+        - 인원 : 5명
+        - 기간 : `2022.07.24` ~ `2022.08.26`
