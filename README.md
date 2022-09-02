@@ -5,9 +5,9 @@
 > ***"We're stronger in the places that we've been broken."***
 > *Ernest Heminway*
 
-학부 시절 전공 강의를 수강하면서 통계와 빅데이터 분석에 흥미를 갖게 되었습니다.
-주로 Python과 SQL을 사용하며, 데이터에서 인사이트를 얻어 머신러닝을 수행하는 일에 흥미가 있습니다.
-Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 프론트엔드 개발 경험도 있습니다.
+학부 시절 전공 강의를 수강하면서 통계와 빅데이터 분석에 흥미를 갖게 되었습니다.  
+주로 Python과 SQL을 사용하며, 데이터에서 인사이트를 얻어 머신러닝을 수행하는 일에 흥미가 있습니다.  
+Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 프론트엔드 개발 경험도 있습니다.  
 
 <br>
 
