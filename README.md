@@ -64,16 +64,14 @@ Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 
     - 스킬 및 작업 툴 : `Kaggle notebook`
     - 인원 : 1명
     - 기간 : `2022.04.01` ~ `2022.04.12`
-    - 내용
-        - Link : [spaceship-titanic-eda-preprocessing-modeling](https://www.kaggle.com/code/jiwonkng/spaceship-titanic-eda-preprocessing-modeling)
+    - Link : [spaceship-titanic-eda-preprocessing-modeling](https://www.kaggle.com/code/jiwonkng/spaceship-titanic-eda-preprocessing-modeling)
   - Kaggle Competition을 활용한 시계열 데이터 분류 모델 연구 → [자세히 보기](https://github.com/gonekng/Kaggle_Project/tree/main/TPS_Apr22)
     - 사용 언어 : `Python`
     - 스킬 및 작업 툴 : `Kaggle notebook`
     - 인원 : 4명
     - 기간 : `2022.04.14` ~ `2022.04.30`
-    - 내용
-        - Link 1 : [tabular-playground-apr-22-lgbm](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22)
-        - Link 2 : [tabular-playground-apr-22-lstm](https://www.kaggle.com/code/taehyeon0915/tabular-playground-apr-22-lstm)
+    - Link 1 : [tabular-playground-apr-22-lgbm](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22)
+    - Link 2 : [tabular-playground-apr-22-lstm](https://www.kaggle.com/code/taehyeon0915/tabular-playground-apr-22-lstm)
 
 <br>
 
