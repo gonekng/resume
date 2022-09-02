@@ -5,6 +5,10 @@
 > ***"We're stronger in the places that we've been broken."***
 > *Ernest Heminway*
 
+학부 시절 전공 강의를 수강하면서 통계와 빅데이터 분석에 흥미를 갖게 되었습니다.
+주로 Python과 SQL을 사용하며, 데이터에서 인사이트를 얻어 머신러닝을 수행하는 일에 흥미가 있습니다.
+Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 프론트엔드 개발 경험도 있습니다.
+
 <br>
 
 ## I. Personal Info
@@ -36,12 +40,12 @@
 <br>
 
 - **자격증**
-    - `2020.08` ADsP 데이터분석준전문가 / 한국데이터산업진흥원
-    - `2020.11` 사회조사분석사 2급 / 한국산업인력공단 (통계청)
-    - `2021.01` 컴퓨터활용능력 1급 / 대한상공회의소
-    - `2021.04` 한국사능력검정 1급 / 국사편찬위원회
-    - `2022.06` 정보처리기사 / 한국산업인력공단 (과학기술정보통신부)
-    - `2022.07` 빅데이터분석기사 / 한국데이터산업진흥원 (필기합격)
+    - `2020.08` ADsP 데이터분석준전문가 / 한국데이터산업진흥원 :: 최종 합격
+    - `2020.11` 사회조사분석사 2급 / 한국산업인력공단(통계청) :: 최종 합격
+    - `2021.01` 컴퓨터활용능력 1급 / 대한상공회의소 :: 최종 합격
+    - `2021.04` 한국사능력검정 1급 / 국사편찬위원회 :: 최종 합격
+    - `2022.06` 정보처리기사 / 한국산업인력공단(과학기술정보통신부) :: 최종 합격
+    - `2022.07` 빅데이터분석기사 / 한국데이터산업진흥원 :: 필기 합격
 
 <br>
 
@@ -70,11 +74,6 @@
     - 내용
         - Link 1 : [tabular-playground-apr-22-lgbm](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22)
         - Link 2 : [tabular-playground-apr-22-lstm](https://www.kaggle.com/code/taehyeon0915/tabular-playground-apr-22-lstm)
-  - Kaggle Competition을 활용한 대용량 데이터 분류 모델 연구 → [자세히 보기](https://github.com/gonekng/Kaggle_Project/tree/main/AMEX_2022)
-    - 사용 언어 : `Python`
-    - 스킬 및 작업 툴 : `Kaggle notebook`
-    - 인원 : 5명
-    - 기간 :
 
 <br>
 
