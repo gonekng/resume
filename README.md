@@ -36,6 +36,7 @@ Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 
 ## III. Certificate
 
 - **어학 능력**
+    - `2015.09` FLEX-eng 686점 / 대한상공회의소
     - `2021.12` TOEIC 925점 / ETS
 <br>
 
