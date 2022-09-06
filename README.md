@@ -94,10 +94,6 @@ Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonekng)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 ## VI. Portfolio
 
 - **Kaggle 프로젝트**
