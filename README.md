@@ -7,10 +7,10 @@
 > ***"We're stronger in the places that we've been broken."***
 > *Ernest Heminway*
 
-학부 시절 전공 강의를 수강하면서 통계와 빅데이터 분석에 흥미를 갖게 되었습니다.
-주로 Python과 SQL을 사용하며, 데이터를 기반으로 인사이트를 얻어 머신러닝을 수행하는 일에 흥미가 있습니다.
-Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 프론트엔드 개발 경험도 있습니다.
-전공 지식과 다양한 팀 프로젝트 경험을 바탕으로 한 명확한 문제 인식과 원활한 커뮤니케이션이 강점이며,
+학부 시절 전공 강의를 수강하면서 통계와 빅데이터 분석에 흥미를 갖게 되었습니다.  
+주로 Python과 SQL을 사용하며, 데이터를 기반으로 인사이트를 얻어 머신러닝을 수행하는 일에 흥미가 있습니다.  
+Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 프론트엔드 개발 경험도 있습니다.  
+전공 지식과 다양한 팀 프로젝트 경험을 바탕으로 한 명확한 문제 인식과 원활한 커뮤니케이션이 강점이며,  
 팀원들과의 효율적인 협업과 지속적인 형상관리를 위해 깃허브, 노션, 슬랙 등의 툴을 적절하게 활용할 수 있습니다.  
 
 <br>
@@ -65,33 +65,25 @@ Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 
 
 <div>
   
-  ## :hammer_and_wrench: I can use these techs
-  ### :speaker: Main Programming Language
+  ### :Crystal ball: Programming Language
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   
   
-  ### :speaker: Web Framework
+  ### :Crystal ball: Web Framework
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
   
-  ### :speaker: SQL
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
+  ### :Crystal ball: SQL
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Google BigQuery-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/></a>
   
-  ### :speaker: Collaboration Tools
+  ### :Crystal ball: Collaboration Tools
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=Mattermost&logoColor=white"/></a>
-  
-  ### :speaker: CI/CD
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 
 </div>
 
