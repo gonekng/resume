@@ -92,7 +92,9 @@ Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonekng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonekng)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
