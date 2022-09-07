@@ -1,13 +1,12 @@
 # Resume
 
-<img src="profile.jpg" width="200"/>
-
 > ***"We're stronger in the places that we've been broken."***
 > *Ernest Heminway*
 
 학부 시절 전공 강의를 수강하면서 통계와 빅데이터 분석에 흥미를 갖게 되었습니다.  
 주로 Python과 SQL을 사용하며, 데이터를 기반으로 인사이트를 얻어 머신러닝을 수행하는 일에 흥미가 있습니다.  
 Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 프론트엔드 개발 경험도 있습니다.  
+
 전공 지식과 다양한 팀 프로젝트 경험을 바탕으로 한 명확한 문제 인식과 원활한 커뮤니케이션이 강점이며,  
 팀원들과의 효율적인 협업과 지속적인 형상관리를 위해 깃허브, 노션, 슬랙 등의 툴을 적절하게 활용할 수 있습니다.  
 
@@ -32,6 +31,7 @@ Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 
 
 - **기타 교육**
     - `2022.08` AI 데이터 플랫폼을 활용한 빅데이터 분석 전문가 과정 수료 (휴먼교육센터)
+      - 
 
 <br>
 
@@ -122,7 +122,7 @@ Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 
         - 스킬 및 작업 툴 : `VScode` `Heroku` `SPSS` `PostgreSQL` `Kakao open builder`
         - 인원 : 5명
         - 기간 : `2022.05.20` ~ `2022.06.03`
-    - 취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티 서비스 개발 → [자세히 보기](https://github.com/gonekng/Verdeterr)
+    - 취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티 서비스 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Mbti_community)
         - 사용 언어 : `Java` `Python` `HTML` `CSS` `JavaScript`
         - 스킬 및 작업 툴 : `VScode` `Dbeaver` `MySQL` `STS4` `SpringBoot` `Bootstrap`
         - 인원 : 5명
