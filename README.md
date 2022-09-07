@@ -109,36 +109,36 @@ Java를 활용한 백엔드 서버 구축과 Html, CSS, JavaScript를 활용한 
 
 ## VI. Portfolio
 
-- **Kaggle 프로젝트**
-  - Spaceship Titanic 데이터를 활용한 탑승유무 분류모형 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Kaggle_Competition/Spaceship_Titanic)
-    - 사용 언어 : `Python`
-    - 스킬 및 작업 툴 : `Kaggle notebook`
-    - 인원 : 1명
-    - 기간 : `2022.04.01` ~ `2022.04.12`
-    - Link : [spaceship-titanic-eda-preprocessing-modeling](https://www.kaggle.com/code/jiwonkng/spaceship-titanic-eda-preprocessing-modeling)
-  - Kaggle Competition을 활용한 시계열 데이터 분류 모델 연구 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Kaggle_Competition/TPS_Apr22)
-    - 사용 언어 : `Python`
-    - 스킬 및 작업 툴 : `Kaggle notebook`
-    - 인원 : 4명
-    - 기간 : `2022.04.14` ~ `2022.04.30`
-    - Link 1 : [tabular-playground-apr-22-lgbm](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22)
-    - Link 2 : [tabular-playground-apr-22-lstm](https://www.kaggle.com/code/taehyeon0915/tabular-playground-apr-22-lstm)
+### Kaggle 프로젝트
+- Spaceship Titanic 데이터를 활용한 탑승유무 분류모형 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Kaggle_Competition/Spaceship_Titanic)
+  - 사용 언어 : `Python`
+  - 스킬 및 작업 툴 : `Kaggle notebook`
+  - 인원 : 1명
+  - 기간 : `2022.04.01` ~ `2022.04.12`
+  - Link : [spaceship-titanic-eda-preprocessing-modeling](https://www.kaggle.com/code/jiwonkng/spaceship-titanic-eda-preprocessing-modeling)
+- Kaggle Competition을 활용한 시계열 데이터 분류 모델 연구 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Kaggle_Competition/TPS_Apr22)
+  - 사용 언어 : `Python`
+  - 스킬 및 작업 툴 : `Kaggle notebook`
+  - 인원 : 4명
+  - 기간 : `2022.04.14` ~ `2022.04.30`
+  - Link 1 : [tabular-playground-apr-22-lgbm](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22)
+  - Link 2 : [tabular-playground-apr-22-lstm](https://www.kaggle.com/code/taehyeon0915/tabular-playground-apr-22-lstm)
 
 <br>
 
-- **기타 프로젝트**
-    - 시민수요를 반영한 불법주정차 단속 모델 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Illegal_parking)
-        - 사용 언어 : `R`
-        - 스킬 및 작업 툴 : `Rstudio` `QGIS`
-        - 인원 : 7명
-        - 기간 : `2021.07.26` ~ `2021.08.16`
-    - 부동산 대출상품 조회 및 금리 계산 챗봇 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Estate_chatbot)
-        - 사용 언어 : `Python`
-        - 스킬 및 작업 툴 : `VScode` `Heroku` `SPSS` `PostgreSQL` `Kakao open builder`
-        - 인원 : 5명
-        - 기간 : `2022.05.20` ~ `2022.06.03`
-    - 취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티 서비스 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Mbti_community)
-        - 사용 언어 : `Java` `Python` `HTML` `CSS` `JavaScript`
-        - 스킬 및 작업 툴 : `VScode` `Dbeaver` `MySQL` `STS4` `SpringBoot` `Bootstrap`
-        - 인원 : 5명
-        - 기간 : `2022.07.14` ~ `2022.08.26`
+### 기타 프로젝트
+  - 시민수요를 반영한 불법주정차 단속 모델 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Illegal_parking)
+      - 사용 언어 : `R`
+      - 스킬 및 작업 툴 : `Rstudio` `QGIS`
+      - 인원 : 7명
+      - 기간 : `2021.07.26` ~ `2021.08.16`
+  - 부동산 대출상품 조회 및 금리 계산 챗봇 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Estate_chatbot)
+      - 사용 언어 : `Python`
+      - 스킬 및 작업 툴 : `VScode` `Heroku` `SPSS` `PostgreSQL` `Kakao open builder`
+      - 인원 : 5명
+      - 기간 : `2022.05.20` ~ `2022.06.03`
+  - 취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티 서비스 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Mbti_community)
+      - 사용 언어 : `Java` `Python` `HTML` `CSS` `JavaScript`
+      - 스킬 및 작업 툴 : `VScode` `Dbeaver` `MySQL` `STS4` `SpringBoot` `Bootstrap`
+      - 인원 : 5명
+      - 기간 : `2022.07.14` ~ `2022.08.26`
