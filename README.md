@@ -3,11 +3,11 @@
 > ***"We're stronger in the places that we've been broken."***
 > *Ernest Heminway*
 
-학부 시절 전공 강의를 수강하면서 통계와 빅데이터 분석에 흥미를 갖게 되었습니다.  
-주로 Python과 SQL을 사용하며, 데이터를 기반으로 인사이트를 얻어 머신러닝을 수행하는 일에 흥미가 있습니다.  
+대학교에서 통계와 데이터 공부를 시작한 후 현재 (주)에코아이에서 데이터 직무로 일하고 있습니다.
+주로 Python과 SQL을 사용하며, 간단한 통계분석부터 머신러닝까지 다양한 데이터 분석 경험이 있습니다.
 Java, SpringBoot를 활용한 백엔드 개발 및 Html, CSS, JavaScript를 활용한 프론트엔드 개발 경험도 있습니다.  
 
-전공 지식과 다양한 팀 프로젝트 경험을 바탕으로 한 명확한 문제 인식과 원활한 커뮤니케이션이 강점이며,  
+전공 지식과 다양한 프로젝트 경험을 바탕으로 한 문제 해결 능력과 커뮤니케이션 역량이 강점이며,  
 팀원들과의 효율적인 협업과 지속적인 형상관리를 위해 GitHub, Notion, Slack 등의 툴을 활용할 수 있습니다.  
 
 <br>
@@ -16,7 +16,7 @@ Java, SpringBoot를 활용한 백엔드 개발 및 Html, CSS, JavaScript를 활�
 
 - 이름 : 강지원
 - 생년월일 : 1996-02-12
-- MBTI : ESTP-A
+- MBTI : ENTP-A
 - 이메일 : donumm64@gmail.com
 - 블로그 : [gonekng.github.io](http://gonekng.github.io)
 
@@ -59,20 +59,22 @@ Java, SpringBoot를 활용한 백엔드 개발 및 Html, CSS, JavaScript를 활�
 <br>
 
 ### 자격증
-  - `2022.12` 빅데이터분석기사 / 한국데이터산업진흥원
-  - `2022.06` 정보처리기사 / 한국산업인력공단(과학기술정보통신부)
-  - `2021.04` 한국사능력검정1급 / 국사편찬위원회
-  - `2021.01` 컴퓨터활용능력1급 / 대한상공회의소
-  - `2020.11` 사회조사분석사2급 / 한국산업인력공단(통계청)
-  - `2020.08` 데이터분석준전문가(ADsP) / 한국데이터산업진흥원
+  - `2022.12.23` 빅데이터분석기사 / 한국데이터산업진흥원
+  - `2022.06.17` 정보처리기사 / 한국산업인력공단(과학기술정보통신부)
+  - `2021.04.23` 한국사능력검정 1급 / 국사편찬위원회
+  - `2021.01.29` 컴퓨터활용능력 1급 / 대한상공회의소
+  - `2020.11.12` 사회조사분석사 2급 / 한국산업인력공단(통계청)
+  - `2020.09.29` 데이터분석준전문가(ADsP) / 한국데이터산업진흥원
 
 <br>
 
 ## IV.  Career
 
-- `2022.12 ~ 현재` (주)에코아이 환경정보사업팀 (인턴연구원)
-  - DB 구축, 데이터 가공 및 분석, 플랫폼 개발 등
-- `2021.09 ~ 2022.02` 구로구청 홍보전산과 (공공빅데이터 청년인턴)
+- `2023.06 ~ ` (주)에코아이 / 지속가능사업본부 (연구원)
+  - 데이터베이스 구축, 데이터 가공 및 분석, 플랫폼 개발 지원 등
+- `2022.12 ~ 2023.05` (주)에코아이 / 지속가능사업본부 (인턴연구원, 6개월)
+  - 데이터베이스 구축, 데이터 가공 및 분석, 대시보드 개발 등
+- `2021.09 ~ 2022.02` 구로구청 / 홍보전산과 (공공빅데이터 청년인턴십, 3개월)
   - 공공 데이터를 활용한 빅데이터 분석 과제 수행
 
 <br>
@@ -89,6 +91,7 @@ Java, SpringBoot를 활용한 백엔드 개발 및 Html, CSS, JavaScript를 활�
   ### SQL
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
   
   ### Web
@@ -103,7 +106,6 @@ Java, SpringBoot를 활용한 백엔드 개발 및 Html, CSS, JavaScript를 활�
   ### Collaboration Tools
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 </div>
