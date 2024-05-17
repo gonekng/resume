@@ -102,10 +102,11 @@ Java, SpringBoot를 활용한 백엔드 개발 및 Html, CSS, JavaScript를 활�
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
   
-  ### Collaboration Tools
+  ### Other Tools
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Notion-353E58?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/></a>
 
 </div>
 
