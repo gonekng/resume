@@ -2,11 +2,9 @@
 
 ---
 
-<aside>
-📌 **“길은 모두에게 열려있지만, 모두가 그 길을 가질 수 있는 것은 아니다.”
-****- 드라마「미생」1화 中
+| 📌 **“길은 모두에게 열려있지만, 모두가 그 길을 가질 수 있는 것은 아니다.”**
+***- 드라마「미생」1화 中***
 
-</aside>
 
 학부 전공 강의로 데이터에 흥미를 갖게 되어 졸업 후 꾸준히 프로젝트 경험을 쌓았고,
 현재 컨설팅 회사에 근무하며 데이터 기반 의사결정으로 팀 업무에 기여하고 있습니다.
@@ -22,27 +20,27 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 그동안 쌓은 전공 지식과 다양한 실무 경험을 바탕으로 데이터의 숨은 가치를 발견하여
 사람을 이해하고 더 좋은 세상을 만드는 데에 이바지하겠습니다. 감사합니다.
 
-# I. Personal Info
 
----
+
+# I. Personal Info
 
 - **이름** : 강지원
 - **생년월일** : 1996-02-12
 - **이메일** : donumm64@gmail.com
 - **블로그** : [gonekng.github.io](http://gonekng.github.io)
 
-# II. Education
 
----
+
+# II. Education
 
 ### **학력**
 
-- `2022.02` 한국외국어대학교 경영정보학(1전공) & 통계학(이중전공) 학사 졸업
+- `2022.02` 한국외국어대학교 경영정보학(1전공) 학사 졸업
+- `2022.02` 한국외국어대학교 통계학(이중전공) 학사 졸업
 
 ### **기타 교육**
 
 - `2022.03 ~ 2022.08` AI 데이터 플랫폼을 활용한 빅데이터 분석 전문가 과정 (휴먼교육센터, 6개월)
-    
     
     | 교과목명 | 훈련시간 |
     | --- | --- |
@@ -59,16 +57,18 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
     | 취업특강 및 모의면접 | 8시간 |
     | 산업체 특강 | 8시간 |
     | 총 훈련시간 | 956시간 |
+
 - `2021.06 ~ 2021.08` 공공빅데이터 청년인턴 교육과정 (한국지능정보사회진흥원, 3개월)
 
-# III. Certificate
 
----
+
+# III. Certificate
 
 ### **어학 능력**
 
 - `2021.12` TOEIC 925점 / ETS
 - `2015.09` FLEX-eng 686점 / 대한상공회의소
+
 
 ### **자격증**
 
@@ -79,17 +79,17 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 - `2020.11` 사회조사분석사2급 / 한국산업인력공단(통계청) :: 최종 합격
 - `2020.08` ADsP 데이터분석준전문가 / 한국데이터산업진흥원 :: 최종 합격
 
-# IV.  Career
 
----
+
+# IV.  Career
 
 - `2022.12 ~ 현재` 주식회사 에코아이 (재직 중)
 - `2021.09 ~ 2022.02` 공공빅데이터 청년인턴 (구로구청, 6개월)
 - `2019.07 ~ 2019.07` 영등포구청 대학생 아르바이트 (영등포구 사회적경제지원센터, 1개월)
 
-# **V. Skill & Tool**
 
----
+
+# **V. Skill & Tool**
 
 ### **Programming Language**
 
@@ -107,11 +107,11 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 
 `Excel` `Powerpoint` `Git` `Github` `Slack` `Notion` `Tableau` 
 
+
+
 # **VI. Portfolio**
 
 ## **Kaggle 프로젝트**
-
----
 
 ### **🛠 Spaceship Titanic 데이터를 활용한 탑승유무 분류모형 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Kaggle_Project/Spaceship_Titanic)**
 
@@ -131,9 +131,8 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 - Link 1 : [tabular-playground-apr-22-lgbm](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22)
 - Link 2 : [tabular-playground-apr-22-lstm](https://www.kaggle.com/code/taehyeon0915/tabular-playground-apr-22-lstm)
 
-## **기타 프로젝트**
 
----
+## **기타 프로젝트**
 
 ### **🛠 시민수요를 반영한 불법주정차 단속 모델 개발 → [자세히 보기](https://github.com/gonekng/Project/tree/main/Illegal_Parking_Crackdown)**
 
