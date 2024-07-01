@@ -1,18 +1,20 @@
 # RESUME
 
 
-학부 전공으로 데이터에 흥미를 갖게 되어 꾸준히 프로젝트 경험을 쌓았고,
-현재 컨설팅 회사에 근무하며 데이터 기반 의사결정으로 팀에 기여하고 있습니다.
+학부 전공으로 데이터에 흥미를 갖게 되어 꾸준히 프로젝트 경험을 쌓았고,  
+현재 컨설팅 회사에 근무하며 데이터 기반 의사결정으로 팀에 기여하고 있습니다.  
 
-Python, R, SQL 등으로 데이터를 다루는 일에 흥미가 있고
-Streamlit, Tableau 등 데이터 시각화 및 대시보드 개발 역량도 있습니다.
-Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에도 익숙하며
-백엔드(Java, Springboot 기반) 및 프론트엔드(Html, CSS 기반) 개발 경험도 있습니다.
+Python, R, SQL 등으로 데이터를 다루는 일에 흥미가 있고  
+Streamlit, Tableau 등 데이터 시각화 및 대시보드 개발 역량도 있습니다.  
+Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에도 익숙하며  
+백엔드(Java, Springboot 기반) 및 프론트엔드(Html, CSS 기반) 개발 경험도 있습니다.  
 
-처음 데이터 직무를 접했을 때는 ‘데이터 분석’이라는 수단에만 초점을 두었는데,
-실제 현업을 겪어보니 ‘문제 해결’이라는 목적이 더 중요하다는 것을 깨달았습니다.
-그동안 쌓아온 다양한 실무 경험과 커뮤니케이션 역량을 십분 발휘하여
-조직의 문제를 해결하고 나아갈 방향을 제시하는  데이터 분석가가 되겠습니다.
+처음 데이터 직무를 접했을 때는 ‘데이터 분석’이라는 수단에만 초점을 두었는데,  
+실제 현업을 겪어보니 ‘문제 해결’이라는 목적이 더 중요하다는 것을 깨달았습니다.  
+그동안 쌓아온 다양한 실무 경험과 커뮤니케이션 역량을 십분 발휘하여  
+조직의 문제를 해결하고 나아갈 방향을 제시하는  데이터 분석가가 되겠습니다.  
+
+
 
 
 
@@ -25,11 +27,15 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 
 
 
+
+
 # II. Education
 
 ### **학력**
 
 - `2022.02` 한국외국어대학교 경영정보학(1전공) & 통계학(이중전공) 학사 졸업
+
+
 
 ### **기타 교육**
 
@@ -55,12 +61,16 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 
 
 
+
+
 # III. Certificate
 
 ### **어학 능력**
 
 - `2015.09` FLEX-eng 686점 / 대한상공회의소
 - `2021.12` TOEIC 925점 / ETS
+
+
 
 ### **자격증**
 
@@ -73,6 +83,8 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 
 
 
+
+
 # IV.  Career
 
 - `2021.09 ~ 2022.02` 공공빅데이터 청년인턴 (구로구청, 6개월)
@@ -80,6 +92,8 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 - `2022.12 ~ 현재` 주식회사 에코아이 (재직 중)
     - 환경정보 및 관련 데이터 수집, 가공, 분석 및 시각화
     - 데이터 대시보드 개발 및 웹 기반 데이터 플랫폼 설계
+
+
 
 
 
@@ -102,6 +116,8 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 `Excel` `Powerpoint` `Git` `Github` `Notion` `Tableau`
 
 
+
+
 # **VI. Portfolio**
 
 ## **Kaggle 프로젝트**
@@ -118,6 +134,8 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 - 인원 : 1명
 - Link : [spaceship-titanic-eda-preprocessing-modeling](https://www.kaggle.com/code/jiwonkng/spaceship-titanic-eda-preprocessing-modeling)
 
+
+
 ### **🛠 Kaggle Competition을 활용한 시계열 데이터 분류 모델 연구**
 
 **→ [자세히 보기](https://github.com/gonekng/Project/tree/main/Kaggle_Project/TPS_Apr22)**
@@ -129,6 +147,8 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 - 역할 : 시계열 데이터 개념 정리, EDA, FE, LGBM 모델링
 - Link 1 : [tabular-playground-apr-22-lgbm](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22)
 - Link 2 : [tabular-playground-apr-22-lstm](https://www.kaggle.com/code/taehyeon0915/tabular-playground-apr-22-lstm)
+
+
 
 ## **기타 프로젝트**
 
@@ -144,6 +164,8 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 - 인원 : 7명
 - 역할 : 데이터 수집 및 전처리, QGIS 버퍼 분석, 모델2 변수 설정 및 FE
 
+
+
 ### **🛠 2021 구로구 관내 CCTV 설치 최적지 분석**
 
 **→ [자세히 보기](https://github.com/gonekng/Project/tree/main/CCTV_Optimization)**
@@ -153,6 +175,8 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 - 기간 : `2021.10.19` ~ `2021.12.28`
 - 인원 : 2명
 - 역할 : 데이터 수집 및 전처리, EDA, QGIS 버퍼 분석, 지수 산출 및 결과 도출
+
+
 
 ### **🛠 부동산 대출상품 조회 및 금리 계산 챗봇 개발**
 
@@ -165,6 +189,8 @@ Excel, PPT 등 MS Office 도구나 Github, Notion 등의 협업 도구 사용에
 - 역할 :
     - 챗봇 개발 - 시나리오 구성, 데이터 수집 및 가공, 조회 및 계산 알고리즘 작성
     - 만족도 조사 - 설문 문항 작성, 가설 설정, 평균분석, ANOVA, 회귀분석
+
+
 
 ### **🛠 취준생을 위한 성격유형별 경험 및 정보 공유 커뮤니티 서비스 개발**
 
